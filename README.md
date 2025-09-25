@@ -72,10 +72,10 @@ Blockchain-based tracking of content access patterns while maintaining user priv
 ## 🎥 Demonstration
 
 ### Video Demo
-Watch the platform in action: [Demo Video](./screenshot_2025-09-24_05-55-20.mp4)
+Watch the platform in action: [Demo Video](./Demo Video.mp4)
 
 ### Transaction Screenshots
-![Blockchain Transaction](./screenshot_2025-09-24_05-55-49.png)
+![Blockchain Transaction](./Blockchain Transaction.png)
 
 The screenshot shows successful on-chain transactions including:
 - Content creation with encrypted data
