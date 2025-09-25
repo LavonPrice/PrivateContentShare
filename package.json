@@ -1,0 +1,15 @@
+{
+  "name": "private-content-sharing",
+  "version": "1.0.0",
+  "description": "Private Content Sharing Platform with FHE",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server . -p 3000 -c-1",
+    "build": "echo 'No build needed for static deployment'"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": ["blockchain", "privacy", "content-sharing", "fhe", "zama"],
+  "author": "",
+  "license": "MIT"
+}
